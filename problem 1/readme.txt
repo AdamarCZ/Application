@@ -1,0 +1,1 @@
+If you are copying files from/to system directory, you need administrator privilige.
