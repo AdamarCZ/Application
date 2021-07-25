@@ -32,7 +32,6 @@ class caseOne(StartCase):
         logging.debug(files)
 
     def clean_up(self):
-        raise IndexError
         pass
 
     def execute(self):
